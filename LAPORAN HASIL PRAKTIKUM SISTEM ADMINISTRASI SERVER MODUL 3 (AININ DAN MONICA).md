@@ -18,7 +18,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\1.png)
+  ![1](https://user-images.githubusercontent.com/92940432/146402876-c88b7e4b-c998-4d59-bee0-82b005499550.png)
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\2.png)
+  ![2](https://user-images.githubusercontent.com/92940432/146402882-07168670-6d7a-433a-b353-aab8c54e5e12.png)
 
   
 
@@ -50,7 +50,8 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\3.png)
+  ![3](https://user-images.githubusercontent.com/92940432/146402886-fa64b697-84bf-4b79-bd31-d9ee0e0ee28a.png)
+
 
   
 
@@ -62,7 +63,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\4.png)
+  ![4](https://user-images.githubusercontent.com/92940432/146402893-885e000a-b6d4-4b08-8b1a-8e270d326549.png)
 
   
 
@@ -122,7 +123,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\5.png)
+  ![5](https://user-images.githubusercontent.com/92940432/146402894-2b36e5a2-9b61-4ba9-86de-3bbe272422f4.png))
 
   
 
@@ -134,7 +135,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\6.png)
+  ![6](https://user-images.githubusercontent.com/92940432/146402897-929d8697-18c2-4a9d-9818-5d73f0de5588.png)
 
   
 
@@ -147,7 +148,8 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\7.png)
+  ![7](https://user-images.githubusercontent.com/92940432/146402903-f62707ca-06dd-4613-a93c-ddd063ab7b3f.png)
+
 
   
 
@@ -159,7 +161,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\8.png)
+  ![8](https://user-images.githubusercontent.com/92940432/146402909-2607619f-8338-4b4a-a423-7868ab72c77f.png)
 
   
 
@@ -171,7 +173,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\9.png)
+  ![9](https://user-images.githubusercontent.com/92940432/146402912-8ad3210d-105c-46d5-964d-69cf59226120.png)
 
   
 
@@ -184,7 +186,9 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\10.png)
+  
+  ![10](https://user-images.githubusercontent.com/92940432/146402914-a47f6075-9c7e-4c72-8c37-645fe2aaa194.png)
+
 
   
 
@@ -192,7 +196,7 @@
 
   
   
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\11.png)
+  ![11](https://user-images.githubusercontent.com/92940432/146402917-5ec2d570-135a-49d5-bc9e-1767eee2d9ec.png)
   
   
   
@@ -206,7 +210,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\12.png)
+  ![12](https://user-images.githubusercontent.com/92940432/146402919-96b4f710-da5c-467f-b5ca-b7f3c261b721.png)
 
   
 
@@ -214,11 +218,11 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\13.png)
+  ![13](https://user-images.githubusercontent.com/92940432/146402925-b76d2910-3d9b-439f-abf0-a1c8a83f750d.png)
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Gambar\SAS MODUL 3\14.png)
+  ![14](https://user-images.githubusercontent.com/92940432/146402930-7c992040-1cd9-495c-8237-da9e6000a32b.png)
 
   
   
